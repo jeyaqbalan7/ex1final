@@ -137,14 +137,14 @@ nand(nandgate,a,b);
 endmodule
 
 ## RTL Schematic:
-![image](https://github.com/jeyaqbalan7/ex1final/assets/119393851/e1e50381-18a6-4166-b57f-3b35c8184eab)
+![image](https://github.com/jeyaqbalan7/ex1final/assets/119393851/408f5e3f-8f7e-41ee-abba-0905c7c1401c)
+
 
 
 
 ## Timing Diagram:
-![image](https://github.com/jeyaqbalan7/ex1final/assets/119393851/fe83d484-4764-48ab-943a-15d8050b66b6)
 
-
+![image](https://github.com/jeyaqbalan7/ex1final/assets/119393851/4fe993d4-7ac7-49e5-8023-b6a37d057960)
 
 
 ## Result:
