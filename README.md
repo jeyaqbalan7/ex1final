@@ -145,8 +145,7 @@ endmodule
 
 ## Timing Diagram:
 ~~~
-![image](https://github.com/jeyaqbalan7/ex1final/assets/119393851/4fe993d4-7ac7-49e5-8023-b6a37d057960)
-
+![image](https://github.com/jeyaqbalan7/ex1final/assets/119393851/92ff5fdf-a905-41de-bdbf-0d18042dedcc)
 
 ## Result:
 
