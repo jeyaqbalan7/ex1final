@@ -153,3 +153,10 @@ Thus the different logic gates are implemented in Verilog HDL and the truth tabl
 
 
 
+
+## Result:
+
+Thus the different logic gates are implemented in Verilog HDL and the truth table are verified.
+
+
+
