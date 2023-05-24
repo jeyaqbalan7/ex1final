@@ -135,23 +135,21 @@ xnor(xnorgate,a,b);
 nor(norgate,a,b);
 nand(nandgate,a,b);
 endmodule
-
-## RTL Schematic:
 ~~~
+## RTL Schematic:
+
 ![image](https://github.com/jeyaqbalan7/ex1final/assets/119393851/408f5e3f-8f7e-41ee-abba-0905c7c1401c)
 
 
 
 
 ## Timing Diagram:
-~~~
-![image](https://github.com/jeyaqbalan7/ex1final/assets/119393851/92ff5fdf-a905-41de-bdbf-0d18042dedcc)
+
+![image](https://github.com/jeyaqbalan7/ex1final/assets/119393851/e252036c-41ad-4d06-8ef1-8a2fef0244b7)
 
 ## Result:
 
 Thus the different logic gates are implemented in Verilog HDL and the truth table are verified.
-
-
 
 
 ## Result:
